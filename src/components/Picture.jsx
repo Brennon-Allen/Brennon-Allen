@@ -1,4 +1,4 @@
-import ProPic from "../assets/Pro-pic-circle copy.png"
+import ProPic from "../assets/Pro-pic Circle copy.png"
 
 function Picture() {
   return (
