@@ -1,9 +1,9 @@
-function Link({text, link, file}) {
+function Link({text, link, file, action}) {
   return (
     <>
       <div className="link-box">
         <a href={link} target="_blank" download={file}>
-        <button>{text}</button>
+        <button onClick={action}>{text}</button>
         </a>
       </div>
     </>
