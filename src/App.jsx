@@ -24,9 +24,7 @@ function App() {
     <div className="flex-center-column">
       <Picture />
       <Heading text="Brennon T. Allen" />
-      <Subheading text="CONTACT ME" />
       <Subheading text="brennon.t.allen@gmail.com" />
-      <Subheading text="brennon.allen@code-tailors.com" />
       <Subheading text="+1 (726) 400-3411" />
       <div className="small-margin">
         <Heading text="Resume" />
